@@ -1,0 +1,8 @@
+.gallery {
+    padding: 20px;
+    background-color: red;
+    &__inner {
+        display: flex;
+        justify-content: center;
+    }
+}
